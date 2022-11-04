@@ -3,6 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Kuliah/Semester 5/5 - Pemrograman Mobile/Sinau/NgobrolKuy/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.151" />
+        <entry key="..\:/Kuliah/Semester 5/5 - Pemrograman Mobile/Sinau/NgobrolKuy/app/src/main/res/layout/activity_cek_email.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/5 - Pemrograman Mobile/Sinau/NgobrolKuy/app/src/main/res/layout/activity_forgot_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/5 - Pemrograman Mobile/Sinau/NgobrolKuy/app/src/main/res/layout/activity_home_chat.xml" value="0.176" />
+        <entry key="..\:/Kuliah/Semester 5/5 - Pemrograman Mobile/Sinau/NgobrolKuy/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Kuliah/Semester 5/5 - Pemrograman Mobile/Sinau/NgobrolKuy/app/src/main/res/layout/activity_personal_chat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/5 - Pemrograman Mobile/Sinau/NgobrolKuy/app/src/main/res/layout/activity_profile_pic.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/5 - Pemrograman Mobile/Sinau/NgobrolKuy/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/5 - Pemrograman Mobile/Sinau/NgobrolKuy/app/src/main/res/layout/activity_reset_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/5 - Pemrograman Mobile/Sinau/NgobrolKuy/app/src/main/res/layout/activity_setting.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kuliah/Semester 5/5 - Pemrograman Mobile/Sinau/NgobrolKuy/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/drawable/circle.xml" value="0.2995" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/drawable/gradient_drawable.xml" value="0.268" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/drawable/ic_baseline_edit_64.xml" value="0.2995" />
